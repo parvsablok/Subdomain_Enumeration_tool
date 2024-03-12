@@ -7,8 +7,8 @@ This tool performs subdomain enumeration for a target domain using a wordlist of
 ```bash
 python script.py <target_url> <output_file>
 ```
-`<target_url>`: The target domain for subdomain enumeration.
-`<output_file>`: The name of the output file to store discovered subdomains.
+- `<target_url>`: The target domain for subdomain enumeration.
+- `<output_file>`: The name of the output file to store discovered subdomains.
 
 #Features
 Multi-threaded subdomain enumeration for faster results.
